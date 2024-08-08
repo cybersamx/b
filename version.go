@@ -1,5 +1,5 @@
 package b
 
-func version() string {
+func Version() string {
 	return "1.0.0"
 }
