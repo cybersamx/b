@@ -1,5 +1,11 @@
 package b
 
+import (
+	"fmt"
+
+	"github.com/cybersamx/c"
+)
+
 func Version() string {
-	return "1.0.0"
+	return fmt.Sprintf("a: v1.1.0\n%s", c.Version())
 }

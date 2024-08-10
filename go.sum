@@ -1,4 +1,6 @@
-github.com/cybersamx/c v1.0.0 h1:RL0Jt8UWka3EaOXAO+6G6L06t7FKwoKXc0rhqi+XGdM=
-github.com/cybersamx/c v1.0.0/go.mod h1:z4tw4A3V9f3OSSXryUDHv0db63XouB3hsA3zCcusvWw=
-github.com/cybersamx/e v1.0.0 h1:MZSzrHMghRZHqNLbG/d/gBxUwaRfGirpI8N3Up1ANjg=
-github.com/cybersamx/e v1.0.0/go.mod h1:Bxk33FSkbwMqEW7fNtZYAXi+/DzYCH8TIq+O7RCfPVg=
+github.com/cybersamx/c v1.2.0 h1:295YF0T86FeqLTiAWu16D/HWqzvxE+8Tm5T8pG+U0Iw=
+github.com/cybersamx/c v1.2.0/go.mod h1:9/TcfA9sx7Z68WesFP3vfdLIJFawaxcwZ73nIqLXmOE=
+github.com/cybersamx/c v1.3.0 h1:7zRb7Z9oKiGR9IwrfF90+deF+vuEaCol345Y5EkjHOc=
+github.com/cybersamx/c v1.3.0/go.mod h1:9/TcfA9sx7Z68WesFP3vfdLIJFawaxcwZ73nIqLXmOE=
+github.com/cybersamx/e v1.1.0 h1:aXBWb1h72Q0NpJbpwe+s6ejvrjMzlESbmTkvtMcT3WI=
+github.com/cybersamx/e v1.1.0/go.mod h1:Bxk33FSkbwMqEW7fNtZYAXi+/DzYCH8TIq+O7RCfPVg=
